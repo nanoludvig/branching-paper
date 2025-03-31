@@ -536,7 +536,7 @@ x, p, q, cell_type = add_mesenchyme(x, p, q, cell_type, idx) # add the mesenchym
 
 
 output_folder_path = f'test_output'  # folder to save the simulation data
-sim_name = f'test2' 				 # name of the simulation
+sim_name = f'test1' 				 # name of the simulation
 
 
 
